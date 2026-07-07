@@ -1,4 +1,4 @@
-# Task 6: Contact Form with JavaScript Client-Side Validation
+# Contact Form with JavaScript Client-Side Validation
 
 A clean, modern, and responsive contact form built using HTML5, CSS3, and vanilla JavaScript. This project focuses on client-side form handling, constraint validation using regular expressions (Regex), and dynamic user feedback.
 
